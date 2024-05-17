@@ -10,13 +10,13 @@
         "name": "Lingex Bot",
         "id": "100514619638896",
         "access": "ext123",
-        "webhook": "https://torjmanix.onrender.com/webhook"
+        "webhook": "https://translate-d1we.onrender.com/webhook"
       },
       {
         "name": "360 Translate",
         "id": "145096345348364",
         "access": "ext123",
-        "webhook": "https://translate-d1we.onrender.com/webhook"
+        "webhook": "https://lingobot.onrender.com/webhook"
       }
     ]
   }
