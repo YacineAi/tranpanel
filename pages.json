@@ -1,0 +1,22 @@
+{
+    "pages": [
+      {
+        "name": "Facebook",
+        "id": "146015851939402",
+        "access": "ext123",
+        "webhook": "https://main2.com/webhook"
+      },
+      {
+        "name": "Lingex Bot",
+        "id": "100514619638896",
+        "access": "ext123",
+        "webhook": "https://torjmanix.onrender.com/webhook"
+      },
+      {
+        "name": "360 Translate",
+        "id": "145096345348364",
+        "access": "ext123",
+        "webhook": "https://lingobot.onrender.com/webhook"
+      }
+    ]
+  }
