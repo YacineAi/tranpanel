@@ -2,7 +2,7 @@
     "pages": [
       {
         "name": "Facebook",
-        "id": "146015851939402",
+        "id": "facebook",
         "access": "ext123",
         "webhook": "https://main2.com/webhook"
       },
@@ -16,7 +16,7 @@
         "name": "360 Translate",
         "id": "145096345348364",
         "access": "ext123",
-        "webhook": "https://lingobot.onrender.com/webhook"
+        "webhook": "https://translate-d1we.onrender.com/webhook"
       }
     ]
   }
